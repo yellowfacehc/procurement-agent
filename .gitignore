@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# 临时测试文件
+test_*.py
+debug_*.py
+modify_*.py
+fix_*.py
+add_*.py
+enable_*.py
+optimize_*.py
+
+# 临时文件
+*.xlsx
+*.bin
+user_upload.bin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
